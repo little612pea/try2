@@ -6,3 +6,4 @@ creating a new branch is quick and simple.
 dev branch
 quick del
 quick del again
+newbranch
